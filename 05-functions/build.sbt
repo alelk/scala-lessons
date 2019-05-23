@@ -1,4 +1,4 @@
-name := "04-type-hierarchy"
+name := "05-functions"
 
 version := "0.1"
 
